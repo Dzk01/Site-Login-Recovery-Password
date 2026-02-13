@@ -47,6 +47,6 @@ Design de interface
 
 Responsividade
 
-👨‍💻 Autor
+##👨‍💻 Autor
 
 Desenvolvido por [Dzk]
