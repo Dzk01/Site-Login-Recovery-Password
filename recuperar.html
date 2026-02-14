@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <title>Recuperar Senha</title>
+  <link rel="stylesheet" href="recuperar.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+
+<div class="recovery-container">
+
+    <h1>Recuperar Senha</h1>
+    <p>Digite seu email para receber o link de redefinição</p>
+
+    <form id="recoveryForm">
+      <div class="input-group">
+        <i class="fa-solid fa-envelope"></i>
+        <input type="email" id="email" placeholder="Seu email" required>
+      </div>
+
+      <button type="submit">Enviar Link</button>
+    </form>
+
+    <div class="feedback" id="feedback"></div>
+
+    <a href="index.html" class="back-link">
+      <i class="fa-solid fa-arrow-left"></i> Voltar ao Login
+    </a>
+
+  </div>
+</div>
+
+<script src="recuperar.js"></script>
+</body>
+</html>
