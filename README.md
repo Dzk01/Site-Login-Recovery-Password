@@ -11,7 +11,7 @@ Projeto de interface moderna de autenticação desenvolvido com HTML, CSS e Java
 <img src="assets/cadastro.png" width="700">
 
 ### 🔑 Recuperação de Senhas
-<img src="assets/recovery.png" width="400">
+<img src="assets/recovery.png" width="700">
 
 ## 📖 Sobre o Projeto
 Este projeto foi desenvolvido com o objetivo de praticar criação de interfaces modernas de login, cadastro e recuperação de senha com animações suaves e design responsivo.
