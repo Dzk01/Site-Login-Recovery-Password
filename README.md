@@ -59,5 +59,3 @@ Desenvolvido por [Dzk]
 
 Creditos: Reza Mehdikhanlou
 AsmrProg-YT
-
-https://dzk01.github.io/Site-Login-Recovery-Password/
